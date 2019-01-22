@@ -5,3 +5,12 @@ Ce projet utilise Maven et e(fx)clipse.
 
 ## Exemple
 
+![GitHub Logo](/exemple_JavaFX.png)
+
+## Auteur
+
+Guillaume RUE
+
+## Licence
+
+ /
